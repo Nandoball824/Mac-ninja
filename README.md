@@ -44,7 +44,7 @@ cd Mac-ninja
 Make the script executable (optional):
 
 ```bash
-chmod +x "Mac_Ninja 2.0  .py"
+chmod +x "Mac_Ninja 2.0.py"
 ```
 
 ## Usage
@@ -52,7 +52,7 @@ chmod +x "Mac_Ninja 2.0  .py"
 Run the script with `sudo`:
 
 ```bash
-sudo python3 "Mac_Ninja 2.0  .py"
+sudo python3 "Mac_Ninja 2.0.py"
 ```
 
 *(Tip: If you rename the file to `mac_ninja.py`, you won't need quotes or spaces when running it).*
